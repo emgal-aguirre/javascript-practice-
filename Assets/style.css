@@ -1,0 +1,49 @@
+body { 
+    font-family: 'Poppins', sans-serif;
+    color: black;
+    background-color: #e6dacd;
+}
+
+.profile-card {
+    width: 400px;
+    margin: auto;
+    background: #fff;
+    box-shadow: 0 4px 10px 0 rgba(0,0,0,0.5);
+    
+}
+
+.image-container {
+    position: relative;
+    background-color: f5ece7;
+    align-items: flex-start;
+}
+
+.info {
+    color: blue;
+    margin-right: 16px;
+}
+
+.main-container {
+   padding: 20px;
+}
+
+.skill-bar {
+    background-color: #bdc9ea;
+    border-radius: 16px;
+}
+
+.progress-bar {
+    padding: 0.1em 16px;
+    border-radius: 16px;
+    text-align: center;
+    color: #fff;
+    background-color: blue;
+}
+
+.title {
+    position: absolute;
+    left: 15px;
+    bottom: 0;
+    color: white;
+
+}
